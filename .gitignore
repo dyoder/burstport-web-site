@@ -1,0 +1,6 @@
+.DS_Store
+data
+logs
+*.log
+tmp
+deploy/s3.yml
